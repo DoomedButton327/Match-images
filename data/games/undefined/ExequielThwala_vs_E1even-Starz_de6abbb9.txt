@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:54:52.949Z
+
+id=1772661910389
+uid=de6abbb9
+date=undefined
+home=ExequielThwala
+away=E1even-Starz
+homeGoals=3
+awayGoals=0
+result=home
+winner=ExequielThwala
+loggedAt=2026-04-21T05:54:52.949Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_E1even-Starz_1772661909327.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
