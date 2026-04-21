@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:57:12.762Z
+
+id=1773473556390
+uid=17c5e441
+date=undefined
+home=DJRonaldoZA
+away=bhaze
+homeGoals=3
+awayGoals=0
+result=home
+winner=DJRonaldoZA
+loggedAt=2026-04-21T05:57:12.762Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773473555464.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
