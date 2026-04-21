@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:58:35.728Z
+
+id=1773902543384
+uid=ca8fb74b
+date=undefined
+home=Yungboyshlime
+away=DiliboL
+homeGoals=undefined
+awayGoals=undefined
+result=draw
+winner=DRAW
+loggedAt=2026-04-21T05:58:35.728Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
