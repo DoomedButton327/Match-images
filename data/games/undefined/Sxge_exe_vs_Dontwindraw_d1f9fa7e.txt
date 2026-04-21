@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:52:35.535Z
+
+id=1771959667569
+uid=d1f9fa7e
+date=undefined
+home=Sxge.exe
+away=Dontwindraw
+homeGoals=undefined
+awayGoals=undefined
+result=home
+winner=Sxge.exe
+loggedAt=2026-04-21T05:52:35.535Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
