@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:57:41.064Z
+
+id=1773733016635
+uid=159bc173
+date=undefined
+home=MGSatarou
+away=E1even-Starz
+homeGoals=3
+awayGoals=0
+result=home
+winner=MGSatarou
+loggedAt=2026-04-21T05:57:41.064Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_E1even-Starz_1773733015789.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
