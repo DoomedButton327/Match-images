@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:52:47.450Z
+
+id=1771992958093
+uid=8d149a67
+date=undefined
+home=RoyalAM
+away=HyperDrive27
+homeGoals=undefined
+awayGoals=undefined
+result=away
+winner=HyperDrive27
+loggedAt=2026-04-21T05:52:47.450Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
