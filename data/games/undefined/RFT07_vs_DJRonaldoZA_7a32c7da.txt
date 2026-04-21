@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:58:44.607Z
+
+id=1773991230874
+uid=7a32c7da
+date=undefined
+home=RFT07
+away=DJRonaldoZA
+homeGoals=3
+awayGoals=0
+result=home
+winner=RFT07
+loggedAt=2026-04-21T05:58:44.607Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
