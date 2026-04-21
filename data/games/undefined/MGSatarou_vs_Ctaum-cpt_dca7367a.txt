@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:55:41.198Z
+
+id=1773003647145
+uid=dca7367a
+date=undefined
+home=MGSatarou
+away=Ctaum-cpt
+homeGoals=1
+awayGoals=2
+result=away
+winner=Ctaum-cpt
+loggedAt=2026-04-21T05:55:41.198Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Dontwindraw_1773004181694.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
