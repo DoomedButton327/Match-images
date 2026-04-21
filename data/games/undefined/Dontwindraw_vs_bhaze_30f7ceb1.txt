@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:58:19.178Z
+
+id=1773901849532
+uid=30f7ceb1
+date=undefined
+home=Dontwindraw
+away=bhaze
+homeGoals=1
+awayGoals=0
+result=home
+winner=Dontwindraw
+loggedAt=2026-04-21T05:58:19.178Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_bhaze_1773901848442.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
