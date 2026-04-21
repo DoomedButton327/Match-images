@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:56:01.760Z
+
+id=1773056390500
+uid=e53c6e2c
+date=undefined
+home=SMANGALISO
+away=RoyalAM
+homeGoals=1
+awayGoals=2
+result=away
+winner=RoyalAM
+loggedAt=2026-04-21T05:56:01.760Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_RoyalAM_1773056389439.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
