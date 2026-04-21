@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:54:38.597Z
+
+id=1772568301765
+uid=627647ab
+date=undefined
+home=DiliboL
+away=DJRonaldoZA
+homeGoals=1
+awayGoals=0
+result=home
+winner=DiliboL
+loggedAt=2026-04-21T05:54:38.597Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_DJRonaldoZA_1772568300771.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
