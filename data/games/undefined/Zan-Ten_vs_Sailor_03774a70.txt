@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:55:03.729Z
+
+id=1772774341188
+uid=03774a70
+date=undefined
+home=Zan-Ten
+away=Sailor
+homeGoals=1
+awayGoals=2
+result=away
+winner=Sailor
+loggedAt=2026-04-21T05:55:03.729Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Sailor_1772774336046.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
