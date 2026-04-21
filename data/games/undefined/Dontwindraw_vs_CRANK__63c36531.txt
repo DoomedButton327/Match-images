@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:57:46.283Z
+
+id=1773733117783
+uid=63c36531
+date=undefined
+home=Dontwindraw
+away=CRANK_
+homeGoals=0
+awayGoals=5
+result=away
+winner=CRANK_
+loggedAt=2026-04-21T05:57:46.284Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_CRANK__1773733116796.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
