@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:52:49.213Z
+
+id=1772008418526
+uid=5e7e33f3
+date=undefined
+home=bhaze
+away=Mashinini
+homeGoals=7
+awayGoals=0
+result=home
+winner=bhaze
+loggedAt=2026-04-21T05:52:49.213Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Mashinini_1772008417353.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
