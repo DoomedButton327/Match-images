@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:55:12.958Z
+
+id=1772775095078
+uid=fd5eee2c
+date=undefined
+home=RoyalAM
+away=MGSatarou
+homeGoals=2
+awayGoals=3
+result=away
+winner=MGSatarou
+loggedAt=2026-04-21T05:55:12.958Z
+editedAt=
+imageUrl=https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_MGSatarou_1772775093790.jpg
+forfeit=false
+autoWin=false
+autoForfeit=false
