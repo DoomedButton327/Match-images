@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T06:01:15.988Z
+
+id=1774911999599
+uid=7d38c2a7
+date=undefined
+home=wham
+away=E1even-Starz
+homeGoals=undefined
+awayGoals=undefined
+result=draw
+winner=DRAW
+loggedAt=2026-04-21T06:01:15.988Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
