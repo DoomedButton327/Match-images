@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T06:00:23.850Z
+
+id=1774564165733
+uid=3e9b8ede
+date=undefined
+home=Nigelmj21
+away=MGSatarou
+homeGoals=undefined
+awayGoals=undefined
+result=draw
+winner=DRAW
+loggedAt=2026-04-21T06:00:23.851Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
