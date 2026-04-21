@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:58:49.798Z
+
+id=1773991447196
+uid=307ed506
+date=undefined
+home=Yungboyshlime
+away=Ctaum-cpt
+homeGoals=0
+awayGoals=3
+result=away
+winner=Ctaum-cpt
+loggedAt=2026-04-21T05:58:49.798Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
