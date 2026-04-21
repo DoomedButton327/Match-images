@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:58:51.481Z
+
+id=1773991454577
+uid=c3aba904
+date=undefined
+home=CRANK_
+away=RoyalAM
+homeGoals=3
+awayGoals=0
+result=home
+winner=CRANK_
+loggedAt=2026-04-21T05:58:51.481Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
