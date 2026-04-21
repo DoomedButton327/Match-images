@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:57:26.158Z
+
+id=1773520759095
+uid=80419cb0
+date=undefined
+home=E1even-Starz
+away=DiliboL
+homeGoals=0
+awayGoals=3
+result=away
+winner=DiliboL
+loggedAt=2026-04-21T05:57:26.158Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
