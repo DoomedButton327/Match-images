@@ -1,0 +1,18 @@
+# Mettlestate × EA FC Mobile — Game Record
+# Auto-generated: 2026-04-21T05:53:43.531Z
+
+id=1772261789389
+uid=601f969a
+date=undefined
+home=E1even-Starz
+away=KING_KHESWA.
+homeGoals=undefined
+awayGoals=undefined
+result=draw
+winner=DRAW
+loggedAt=2026-04-21T05:53:43.531Z
+editedAt=
+imageUrl=
+forfeit=false
+autoWin=false
+autoForfeit=false
